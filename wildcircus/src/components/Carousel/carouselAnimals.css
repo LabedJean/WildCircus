@@ -1,0 +1,21 @@
+.CarouselContainer{
+    display:flex !important;
+    justify-content: center !important;
+   
+}
+.TitleCarousel{
+ margin-bottom: 80px;
+ text-align: center
+ 
+}
+.myCarouselStyle{
+display: flex !important;
+align-self: center !important;
+width: 55vw !important;
+ max-height: 60vh !important;
+ margin: auto;
+ margin-top: 20px;
+ border: 1px solid white;
+ margin-bottom: 30px !important
+ 
+}

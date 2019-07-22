@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+
+.MainEventTitle{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 50px !important;
+    text-decoration: underline;
+    margin-left: 20px;
+    color: white;
+    text-shadow: rgb(87, 69, 0) 1px 0 10px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px
+    
+}
+.WelcomeTitle{
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    text-shadow: rgb(87, 69, 0) 3px 0 10px;
+}
+.sectionTitle{
+    font-family: 'Shadows Into Light', cursive;
+    padding-left: 20px;
+    color: white;
+    font-size: 30px;
+    text-decoration: underline;
+    text-shadow: rgb(87, 69, 0) 3px 0 10px;
+}
+.sectionTitleHistory{
+    font-family: 'Shadows Into Light', cursive;
+    padding-right: 20px;
+    color: white;
+    font-size: 30px;
+    text-decoration: underline;
+    text-align: end;
+    text-shadow: rgb(87, 69, 0) 3px 0 10px;
+}
+.sectionText{
+    font-family: 'Shadows Into Light', cursive;
+    padding-left: 20px;
+    color: white;
+    font-size: 15px;
+    text-shadow: rgb(87, 69, 0) 3px 0 10px;
+}
+.BackgroundHomepage{
+    background-image: url("../assets/images/BackgroundCrop.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    align-self: center;
+    overflow: hidden;
+    
+}
+.HeadPictureContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap
+}
+.WelcomeTitle{
+    padding:0 !important;
+    margin:0 ! important;
+    margin-bottom: 50px
+}
+.card-footer3{
+    padding:0 !important;
+    padding-top:0 !important;
+}
+.AboutUsContainer{
+    background-color: #404377;
+    width: 70vw;
+    border: 1px solid white;
+    margin-bottom:20px;
+}
+.HistoryContainer{
+    background-color: #404377;
+    width: 70vw;
+    border: 1px solid white;
+    margin-bottom:20px;
+    float: right
+}
+.TourContainer{
+    background-color: #404377;
+    width: 70vw;
+    border: 1px solid white;
+    margin-bottom:20px;
+    
+    float: Left
+}
+.p{
+    font-size: 20px !important
+}
+.aboutPicture{
+    width:17vw;
+    height: 30vh;
+    float: right;
+    margin: 5px;
+}
+.historyPicture{
+    width:17vw;
+    height: 30vh;
+    float: left;
+    margin: 5px
+}

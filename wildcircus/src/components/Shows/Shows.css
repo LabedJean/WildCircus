@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+
+.MainEventTitle{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 50px !important;
+    text-decoration: underline;
+    margin-left: 20px;
+    color: white;
+    text-shadow: rgb(87, 69, 0) 1px 0 10px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px
+    
+}
+.BackgroundHomepage{
+    background-image: url("../../assets/images/BackgroundCrop.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    align-self: center;
+  
+    
+}
+.warptamere{
+    display: flex !important;
+    flex-wrap: wrap !important;
+    flex-direction: row
+
+}
+.RowTamere{
+    align-items: center;
+    margin-left: 100px !important
+}

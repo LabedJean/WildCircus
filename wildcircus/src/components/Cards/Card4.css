@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+
+.CardBeer {
+    margin: auto;
+    flex-direction: row;
+    margin-bottom: 5rem;
+    text-align: center;
+    border: solid 1px white;
+    border-radius: 20px;
+    width: 38vh;
+    background-color: #404377 !important;
+    padding-bottom: 10px;
+   
+}
+.CardsContainer4{
+  
+    padding-left: 125px !important
+}
+
+.card-header {
+ padding: 0 !important;
+ padding-top: 5px !important;
+    color: #fff;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+    text-shadow: rgb(87, 69, 0) 3px 0 10px;
+}
+
+.card-body {
+    padding-left: 0;
+    padding-right: 0;
+    
+    background-color: #404377 !important;
+    padding: 0 !important;
+    
+}
+.Work{
+    padding:0;
+    color: yellow;
+    font-size: 30px;
+    margin: 0;
+    font-family: 'Shadows Into Light', cursive;
+
+
+}
+
+.card-footer {
+    background-color: #404377 !important;
+    color:Black;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+    margin: 0;
+    padding :0 !important
+}
+.card-footer-date {
+    background-color: #404377 !important;
+    color: #fff;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 15px;
+    margin: 0;
+    padding: 0!important;
+}
+.card-footer-realname {
+    background-color: #404377 !important;
+    color: #fff;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    margin: 0;
+    padding: 0!important;
+}
+.card-img{
+    height: 150px
+}
+.btn .btn-secondary{
+     color: white !important;
+     background-color: #fff !important;
+}
+.detailsButton{
+    color: #ed1b22;
+    background-color:white;
+    border: solid 3px #404377;
+    border-radius: 20px;
+    outline: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0); 
+    font-family: 'Shadows Into Light', cursive;
+}
+.buyButton{
+    color: #ed1b22;
+    background-color:white;
+    border: solid 3px #404377;
+    border-radius: 20px;
+    outline: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0); 
+    font-family: 'Shadows Into Light', cursive;
+}
+.enterButton:focus{
+outline: none;
+}
